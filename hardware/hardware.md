@@ -1,0 +1,6 @@
+# Hardware Inventory
+
+## Router
+
+## Switch
+
